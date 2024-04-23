@@ -27,7 +27,7 @@
 }
 
 .portfolio__project-item {
-  background-image: linear-gradient(#0009, #0009), url("profile.png");
+  background-image: linear-gradient(#0009, #0009), url("/profile.png");
   background-position: center;
   background-size: cover;
   display: grid;
