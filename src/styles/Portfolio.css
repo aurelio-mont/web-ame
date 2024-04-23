@@ -32,6 +32,7 @@
   background-size: cover;
   display: grid;
   place-content: center;
+  border-radius: 0.8rem;
 }
 
 .portfolio__project-item:hover {
