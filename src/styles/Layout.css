@@ -1,0 +1,22 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Montserrat Variable", sans-serif;
+  background-color: #e2eaff;
+  color: #101632dd;
+}
+
+body,
+div,
+ul,
+nav,
+header,
+footer,
+a,
+li,
+label {
+  margin: 0;
+  padding: 0;
+}
